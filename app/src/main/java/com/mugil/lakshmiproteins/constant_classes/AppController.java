@@ -1,4 +1,4 @@
-package com.mugil.lakshmiproteins;
+package com.mugil.lakshmiproteins.constant_classes;
 
 import android.app.Application;
 import android.content.Context;

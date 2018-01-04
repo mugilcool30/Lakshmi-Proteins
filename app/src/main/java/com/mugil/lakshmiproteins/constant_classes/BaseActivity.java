@@ -1,4 +1,4 @@
-package com.mugil.lakshmiproteins;
+package com.mugil.lakshmiproteins.constant_classes;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -10,6 +10,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
+
+import com.mugil.lakshmiproteins.R;
 
 
 public class BaseActivity extends AppCompatActivity {
