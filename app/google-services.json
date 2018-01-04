@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511292367843",
+    "firebase_url": "https://lakshmi-proteins.firebaseio.com",
+    "project_id": "lakshmi-proteins",
+    "storage_bucket": "lakshmi-proteins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511292367843:android:d5c01b3bb4452a1c",
+        "android_client_info": {
+          "package_name": "com.mugil.lakshmiproteins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511292367843-hfo62vjq9229cj59l0ktdvqik9umkeff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mugil.lakshmiproteins",
+            "certificate_hash": "8db74182936a352067aa77acb7ddefc5f1cf307b"
+          }
+        },
+        {
+          "client_id": "511292367843-cum6d28bvf966dnfepiq52voiipii3ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4x876OcC4HJcIWawy8N9TVdk3-GC03I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511292367843-cum6d28bvf966dnfepiq52voiipii3ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
